@@ -14,7 +14,7 @@ get '/meals' do
             "Falafel",
             "Sushi",
             "Linguini",
-            "Onigilli"]
+            "Onigiri"]
   erb :meals
 end
 

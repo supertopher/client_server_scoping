@@ -11,3 +11,13 @@ th {
 ol {
   list-style-type: none;
 }
+
+header{
+  text-align: center;
+  display: block;
+  margin: auto;
+  background-color: black;
+  color: white;
+  font-weight: bolder;
+  line-height: 2em;
+}
